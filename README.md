@@ -1,4 +1,10 @@
 # SQL_Zomato
+
+## Process
+- Used Microsoft SQL Server Database
+- Created custom tables in the database using CREATE, DROP, INSERT INTO, and VALUES commands
+- Did some query optimizations regarding that
+
 ## Screenshots
 ![Screenshot (101)](https://github.com/SIDDHARTH107/SQL_Zomato/assets/103374957/ba3d3002-24aa-4669-8382-c1dcd226dd76)
 
